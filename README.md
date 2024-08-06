@@ -1,8 +1,14 @@
-# React + Vite
+# **Modern Animated Website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Overview**
+A visually stunning, modern website featuring dynamic animations and smooth transitions. Designed to enhance user experience with engaging visuals and interactive elements, this project showcases advanced web development techniques using modern technologies.
 
-Currently, two official plugins are available:
+## **Features**
+- **Modern Animations**: Includes CSS animations, JavaScript-driven effects, and smooth scrolling.
+- **Interactive Elements**: Engages users with interactive components like sliders, modals, and hover effects.
+- **Cross-Browser Compatibility**: Ensures consistent performance across major web browsers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Technologies Used**
+- **HTML5**: Markup structure for the website.
+- **CSS3**: Styling and animations, including Flexbox/Grid for layout.
+- **JavaScript**: Interactivity and advanced animations.
